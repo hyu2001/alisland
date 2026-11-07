@@ -1,0 +1,11 @@
+{
+  "center": "islands/演算法思維探索島/教材.md",
+  "courses": [
+    "islands/思維起點島/教材.md",
+    "islands/特性特檢島/教材.md",
+    "islands/表達語言島/教材.md",
+    "islands/符號標準島/教材.md",
+    "islands/控制結構島/教材.md",
+    "islands/邏輯實戰島/教材.md"
+  ]
+}
